@@ -1,4 +1,4 @@
-![未标题-2](https://user-images.githubusercontent.com/91332664/140465074-863f6289-c61d-4498-8a95-695a423131e7.jpg)
+![未标题-2](https://user-images.githubusercontent.com/91332664/140465378-560bce0d-0455-44c3-8f4f-bf48715da6ba.jpg)
 
 ### Hi there 👋
 
