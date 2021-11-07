@@ -1,6 +1,6 @@
 ![未标题-3_画板 1](https://user-images.githubusercontent.com/91332664/140627296-6a7fc603-d845-4be0-bdb6-d065898cfa36.jpg)
 
-### Hi there 👋
+### Hi there![wave](https://user-images.githubusercontent.com/91332664/140627300-abc75d98-a37b-4bff-b125-d887608502b6.gif)
 
 !--
 **jg2007/jg2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
