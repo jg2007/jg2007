@@ -1,6 +1,6 @@
-[![Header](https://user-images.githubusercontent.com/91332664/140627296-6a7fc603-d845-4be0-bdb6-d065898cfa36.jpg "Header")]
+![Header](https://user-images.githubusercontent.com/91332664/140627296-6a7fc603-d845-4be0-bdb6-d065898cfa36.jpg "Header")
 
-### Hi there!<img src="https://user-images.githubusercontent.com/91332664/140627300-abc75d98-a37b-4bff-b125-d887608502b6.gif" width="30px">
+### Hi there!<img src="https://user-images.githubusercontent.com/91332664/140627300-abc75d98-a37b-4bff-b125-d887608502b6.gif" width="25px">
 
 !--
 **jg2007/jg2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
