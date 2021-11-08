@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 - :toolbox: Tools: Python, R, Stata, SQL; Tableau, QGIS, GeoDa; Axure, Adobe Photoshop, Adobe Illustrator
 - :pencil2: Industry knowledge: Statistics, Econometrics, Accounting, Marketing, Photography
-- :file_cabinet: Other skills: Customer Analysis, Bilingual Communications, Visual Design
-
+- :file_cabinet: Other skills: Customer Analysis, Bilingual Communications, Visual Design  
+  
 - 🔭 I plan to work as a data analyst in Internet Industry
 - 🌱 I’m very interested in experimental research design and user behavior analysis
 - 👯 I’m improving my R and Python skills and exploring more applications of R in spatial data analysis
