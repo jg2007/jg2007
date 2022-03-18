@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 👯 I’m improving my R and Python skills and exploring more applications of R in spatial data analysis
 - 📫 How to reach me: Please contact me by my email address: gorse09@163.com
 - 😄 Pronouns: She / her / hers
-- ⚡ Fun fact: I am also a freelance illustrator and a big vaporwave enthusiast
+- ⚡ Fun fact: I am also a freelance illustrator and a vaporwave enthusiast
